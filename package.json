@@ -1,0 +1,22 @@
+{
+  "name": "spacebehind",
+  "version": "1.0.0",
+  "description": "space behind blog (spacebehind.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyledijkstra/spacebehind.git"
+  },
+  "author": "Kyle Dijkstra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyledijkstra/spacebehind/issues"
+  },
+  "homepage": "https://github.com/kyledijkstra/spacebehind#readme"
+}
